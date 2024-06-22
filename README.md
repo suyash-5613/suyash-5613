@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">I’m <b>Suyash Sahu</b>, Web Developer.
-Pursuing BTech CSE’24 from <b>K L University</b>, Amaravathi (Vijayawada)</p>
+Pursuing BTech CSE’27 from <b>K L University</b>, Amaravathi (Vijayawada)</p>
  
 <h1 align="center">Technology</h1>
 <p align="center">I work on this technologies and have experience in all of that</p>
